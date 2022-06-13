@@ -22,10 +22,10 @@ RemoveMines.process = function (localPlayer)
     }
 
     var n;
-    for (n = mines.minesByUser_0.keys.iterator(); n.hasNext();) 
+    for (n = mines.minesByUser_0.keys.iterator(); n.hasNext();)
     {
         var o = n.next();
-        mines.removeAllMines_0(o)
+        mines.removeBlueMines_0(o)
     }
 
 }
