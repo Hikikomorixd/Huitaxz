@@ -33,9 +33,9 @@ let cheatMenuCode = `
 		</div>
 
 		<div id="infoWindow">
-			<p>Free cheat for tanki online by sheezzmee</p>
+			<p>Free cheat for tanki online by Sexy</p>
 			<p>Use only on the test server</p>
-			<p><a href="https://github.com/sheezzmee/shizoval" target="_blank" rel="noopener noreferrer">Cheat source</a></p>
+			<p><a href="https://github.com/Hikikomorixd/Huitaxz" target="_blank" rel="noopener noreferrer">Cheat source</a></p>
 		</div>
 
 	</div>
