@@ -23,7 +23,7 @@ let cheatMenuCode = `
 	</style>
 
 	<div class="shizoval__content">
-		<center>shizoval</center><hr>
+		<center>Sexy</center><hr>
 
 		<div id="gameStates" style="display: none;">
 			<p>AirBreak: <font id="airBreakStateColor" color="red"><label id="airBreakState">FALSE</label></font></p>
